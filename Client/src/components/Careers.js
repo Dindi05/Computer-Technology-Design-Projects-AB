@@ -92,16 +92,6 @@ const Careers = () => {
           </form>
         </div>
       </section>
-
-      <section className="py-5 bg-light">
-        <div className="container">
-          <h2 className="h5 fw-bold text-brand mb-3">Staff Testimonial</h2>
-          <blockquote className="blockquote text-muted">
-            “Working at Avenue School is more than a job — it's a community.”<br />
-            <footer className="blockquote-footer mt-2">Sarah, Year 2 Teacher</footer>
-          </blockquote>
-        </div>
-      </section>
     </div>
   );
 };
